@@ -48,7 +48,7 @@ The AI system then recommends whether sellers should:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/OkaforChukwuka/FishAI-Live-App/refs/heads/main/screenshots/Screenshot%202026-05-16%20124450.png)] 
+![Dashboard Preview](https://raw.githubusercontent.com/OkaforChukwuka/FishAI-Live-App/refs/heads/main/screenshots/Screenshot%202026-05-16%20124450.png) 
 
 ---
 
