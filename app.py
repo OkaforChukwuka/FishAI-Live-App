@@ -205,7 +205,11 @@ else:
 
 total_revenue = df['Price_per_KG'].sum()
 avg_price = df['Price_per_KG'].mean()
-best_market = df.groupby('Location')['Price_per_KG'].mean().idxmax()
+filtered_df = df[
+    (df['Fish_Type'] == fish_type)
+]
+
+best_market = filtered_df.groupby('Location')['Price_per_KG'].mean().idxmax()
 
 col1, col2, col3, col4 = st.columns(4)
 
